@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 I am gonna eat pie
+=======
+who da fack is dis
+>>>>>>> d0a57f39c1291de0592a2344aac367250383032b
 I wanan see a diff
 this time we do 2
 mars is a planet of people who eat other people
